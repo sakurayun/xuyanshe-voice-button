@@ -1,7 +1,7 @@
 const vupData = [
     {
         uid: '5563350',
-        name: {zh: '小希', en: '', jp: 'Xiaoxi'},
+        name: {zh: '胡桃Usa', en: 'usa', jp: 'usa'},
         abbr: 'xx',
         color: '#CD3951',
         profile: 'https://static.xiaoblogs.cn/img/xx.png',
